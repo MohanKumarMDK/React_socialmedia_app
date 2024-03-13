@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Second Post",
+      "datetime": "July 16,2021 11:47:39 AM",
+      "body": "Lorem ipusm dolor sit amet ,consulter"
+    },
+    {
+      "id": "7",
+      "title": "My Fourth Post",
+      "datetime": "March 11, 2024 9:28:28 PM",
+      "body": "Football summit next week"
+    },
+    {
+      "id": "71",
+      "title": "mohan",
+      "datetime": "March 11, 2024 9:42:09 PM",
+      "body": "footballer star"
+    },
+    {
+      "id": "711",
+      "title": "custom hook",
+      "datetime": "March 11, 2024 10:47:16 PM",
+      "body": "study"
+    }
+  ]
+}
